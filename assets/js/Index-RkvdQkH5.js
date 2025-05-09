@@ -1,0 +1,1 @@
+import{u as o,j as s}from"./index-BTOACoUX.js";import{E as e}from"./Exception-CuHX1PW1.js";import"./react-Dz_Dwpfc.js";import"./antd-DpJIrhNI.js";import"./echarts-C9Czxobr.js";function p(){const{t}=o();return s.jsx(e,{status:"404",title:t("page.notFound.title"),subTitle:t("page.notFound.subTitle")})}export{p as default};
