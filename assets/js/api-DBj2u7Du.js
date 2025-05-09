@@ -1,0 +1,1 @@
+import{b3 as t}from"./index-bnCn0n-D.js";function n(){return t.get("/api")}function r(){return t.get("/api/flat")}function a(i){return t.get(`/api/${i}`)}function u(){return t.get("/api/permission")}function s(i){return t.post("/api",i)}function A(i,e){return t.put(`/api/${i}`,e)}function o(i){return t.delete(`/api/${i}`)}export{r as a,a as b,s as c,o as d,u as e,n as g,A as u};
