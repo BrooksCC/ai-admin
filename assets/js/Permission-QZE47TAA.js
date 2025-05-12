@@ -1,0 +1,1 @@
+import{b4 as o,M as t,j as s}from"./index-D55vL5wO.js";function a({permission:i,matchMode:r="all",children:e}){const{hasPermission:n}=o();return n({permission:i,permissionType:t.FEATURE,matchMode:r})?s.jsx(s.Fragment,{children:e}):null}export{a as P};
