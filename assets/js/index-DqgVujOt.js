@@ -1,0 +1,1 @@
+import{j as r}from"./index-CUy4eyuH.js";import{B as i}from"./BaseContainer-B2AtMwrw.js";import"./react-Dz_Dwpfc.js";import"./antd-CXRY_8Ve.js";import"./echarts-C9Czxobr.js";import"./useWindowSize-DSNN33pu.js";function s(){return r.jsx(i,{children:"Third Child"})}export{s as default};
