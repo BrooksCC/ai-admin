@@ -1,0 +1,1 @@
+import{u as t,j as e}from"./index-Cpn9jIU_.js";import{E as o}from"./Exception-h1NJd0pe.js";import"./react-DNsX-D9n.js";import"./antd-Bzi-nNZC.js";import"./echarts-C9Czxobr.js";function m(){const{t:r}=t();return e.jsx(o,{status:"500",title:r("page.serverError.title"),subTitle:r("page.serverError.subTitle")})}export{m as default};

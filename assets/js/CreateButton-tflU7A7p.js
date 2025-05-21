@@ -1,0 +1,1 @@
+import{u as r,j as e}from"./index-Cpn9jIU_.js";import{B as a}from"./Button-C2dR21Nj.js";function u({noText:o=!1,...t}){const{t:n}=r();return e.jsx(a,{icon:"icon-park-outline:add-one",...t,children:o?"":n("common.create")})}export{u as C};
