@@ -1,0 +1,1 @@
+import{u as e,j as i}from"./index-D04p1sBC.js";import{E as o}from"./Exception-CLriIkI0.js";import"./react-DNsX-D9n.js";import"./antd-Bzi-nNZC.js";import"./echarts-C9Czxobr.js";function u(){const{t}=e();return i.jsx(o,{status:"403",title:t("page.forbidden.title"),subTitle:t("page.forbidden.subTitle")})}export{u as default};

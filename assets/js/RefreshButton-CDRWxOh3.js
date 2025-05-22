@@ -1,0 +1,1 @@
+import{u as t,j as n}from"./index-D04p1sBC.js";import{B as s}from"./Button-DatrTJmw.js";function u(o){const{t:r}=t();return n.jsx(s,{icon:"icon-park-outline:refresh",...o,children:r("common.refresh")})}export{u as R};
