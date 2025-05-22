@@ -1,0 +1,1 @@
+import{u as n,j as s}from"./index-DL272AWR.js";import{B as i}from"./Button-Dt5d1BmR.js";function e(t){const{t:o}=n();return s.jsx(i,{icon:"icon-park-outline:disk",htmlType:"submit",...t,children:o("common.save")})}export{e as S};

@@ -1,0 +1,1 @@
+import{u as n,j as r}from"./index-DL272AWR.js";import{B as s}from"./Button-Dt5d1BmR.js";function c(o){const{t}=n();return r.jsx(s,{icon:"icon-park-outline:left",...o,children:t("common.back")})}export{c as B};
