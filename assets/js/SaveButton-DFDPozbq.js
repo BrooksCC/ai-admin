@@ -1,0 +1,1 @@
+import{u as n,j as o}from"./index-B7GDeRPa.js";import{B as r}from"./Button-B2usg2r0.js";function m(t){const{t:e}=n();return o.jsxDEV(r,{icon:"icon-park-outline:disk",htmlType:"submit",...t,children:e("common.save")},void 0,!1,{fileName:"/home/runner/work/pure-admin-react/pure-admin-react/src/components/button/SaveButton.tsx",lineNumber:11,columnNumber:5},this)}export{m as S};
