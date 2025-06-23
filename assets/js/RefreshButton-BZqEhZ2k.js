@@ -1,0 +1,1 @@
+import{u as n,j as o}from"./index-CLsFyRhf.js";import{B as t}from"./Button-DKuw0GRZ.js";function i(e){const{t:r}=n();return o.jsxDEV(t,{icon:"icon-park-outline:refresh",...e,children:r("common.refresh")},void 0,!1,{fileName:"/home/runner/work/pure-admin-react/pure-admin-react/src/components/button/RefreshButton.tsx",lineNumber:11,columnNumber:5},this)}export{i as R};
